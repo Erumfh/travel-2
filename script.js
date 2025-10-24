@@ -2,7 +2,7 @@ function showBeach() {
   document.getElementById("recommendation").innerHTML = `
     <h2>Beach Destinations</h2>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ramla_Bay.jpg/330px-Ramla_Bay.jpg" alt="Beach 1">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Beach_at_Fort_Lauderdale.jpg/250px-Beach_at_Fort_Lauderdale.jpg alt="Beach 2">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Beach_at_Fort_Lauderdale.jpg/250px-Beach_at_Fort_Lauderdale.jpg "alt="Beach 2">
   `;
 }
 
